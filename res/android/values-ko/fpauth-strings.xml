@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+<resources>
+    <string name="cancel">취소</string>
+    <string name="use_backup">패스코드 사용</string>
+    <string name="fingerprint_auth_dialog_title">지문 인증</string>
+    <string name="ok">예</string>
+    <string name="fingerprint_description">진행하기 위해 지문을 확인하세요</string>
+    <string name="fingerprint_hint">센서에 손가락을 대세요</string>
+    <string name="fingerprint_not_recognized">지문 인식 실패. 재시도 해주세요.</string>
+    <string name="fingerprint_success">지문 인식됨</string>
+    <string name="new_fingerprint_enrolled_description">새로운 지문이 이 기기에 추가되었으므로 새로운 비밀번호가 필요합니다</string>
+    <string name="secure_lock_screen_required">보안 화면 잠금 필요!</string>
+    <string name="fingerprint_too_many_attempts">너무 많은 로그인을 시도하였습니다.</string>
+</resources>
