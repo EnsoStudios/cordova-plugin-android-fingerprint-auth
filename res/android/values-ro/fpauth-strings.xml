@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+<resources>
+    <string name="cancel">Anulare</string>
+    <string name="use_backup">Utilizați codul de acces</string>
+    <string name="fingerprint_auth_dialog_title">Autentificare cu amprenta digitală</string>
+    <string name="ok">Ok</string>
+    <string name="fingerprint_description">Confirmați amprenta digitală pentru a continua</string>
+    <string name="fingerprint_hint">Atingeți senzorul</string>
+    <string name="fingerprint_not_recognized">Amprenta nu este recunoscută. Încercați din nou.</string>
+    <string name="fingerprint_success">Amprenta este recunoscută</string>
+    <string name="new_fingerprint_enrolled_description">O nouă amprentă digitală a fost adăugată la acest dispozitiv, astfel încât este necesară parola dvs.</string>
+    <string name="secure_lock_screen_required">Este necesară blocarea ecranului!</string>
+    <string name="fingerprint_too_many_attempts">Prea multe încercări. Încercați mai târziu.</string>
+</resources>
