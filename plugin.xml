@@ -57,6 +57,7 @@
         <source-file src="res/android/values-pl" target-dir="res" />
         <source-file src="res/android/values-ko" target-dir="res" />
         <source-file src="res/android/values-ms" target-dir="res" />
+        <source-file src="res/android/values-vi" target-dir="res" />
 
     </platform>
 
