@@ -60,7 +60,7 @@
         <source-file src="res/android/values-vi" target-dir="res" />
         <source-file src="res/android/values-cs" target-dir="res" />
         <source-file src="res/android/values-ro" target-dir="res" />
-
+        <source-file src="res/android/values-sk" target-dir="res" />
     </platform>
 
 </plugin>
